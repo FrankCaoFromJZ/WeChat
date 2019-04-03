@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/focus/focus",
+    "pages/me/me",
+    "pages/publish/publish"
+  ],
+  "tabBar":{
+    "list":[
+      {
+        "pagePath":"pages/home/home",
+        "text":"首页"
+      },
+      {
+        "pagePath": "pages/focus/focus",
+        "text": "关注"
+      },
+      {
+        "pagePath": "pages/publish/publish",
+        "text": "发表"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
