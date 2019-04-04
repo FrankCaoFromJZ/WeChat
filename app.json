@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/welcome/welcome",
     "pages/home/home",
     "pages/focus/focus",
     "pages/me/me",
@@ -26,9 +27,11 @@
     ]
   },
   "window": {
-    "backgroundTextStyle": "light",
+    "navigationStyle":"custom",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "black",
+    "backgroundColor":"#ff0000",
+    "backgroundTextStyle": "light",
   }
 }
