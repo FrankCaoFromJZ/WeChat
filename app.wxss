@@ -1,6 +1,7 @@
 /**app.wxss**/
 page{
   background: #cfdfef;
+  font-family: "楷体"
 }
 .container {
   height: 100%;
@@ -11,3 +12,4 @@ page{
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+

@@ -3,4 +3,9 @@ Page({
   data: {
 
   },
+  books:function(){
+    wx.navigateTo({
+      url: '../home/home',
+    })
+  }
 })
