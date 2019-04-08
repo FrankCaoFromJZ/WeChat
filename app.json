@@ -6,11 +6,11 @@
     "pages/me/me",
     "pages/publish/publish"
   ],
-  "tabBar":{
-    "list":[
+  "tabBar": {
+    "list": [
       {
-        "pagePath":"pages/home/home",
-        "text":"首页"
+        "pagePath": "pages/home/home",
+        "text": "首页"
       },
       {
         "pagePath": "pages/focus/focus",
@@ -27,7 +27,7 @@
     ]
   },
   "window": {
-    "navigationStyle":"custom",
+    "navigationStyle": "custom",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black",
