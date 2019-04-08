@@ -4,7 +4,8 @@
     "pages/home/home",
     "pages/focus/focus",
     "pages/me/me",
-    "pages/publish/publish"
+    "pages/publish/publish",
+    "pages/sign/sign"
   ],
   "tabBar":{
     "list":[
@@ -29,7 +30,6 @@
   "window": {
     "navigationStyle":"custom",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black",
     "backgroundTextStyle": "light"
   }

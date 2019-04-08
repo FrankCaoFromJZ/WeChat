@@ -5,7 +5,7 @@ Page({
   },
   books:function(){
     wx.navigateTo({
-      url: '../home/home',
+      url: '../sign/sign',
     })
   }
 })

@@ -1,0 +1,15 @@
+/* pages/sign/sign.wxss */
+.sign-btn{
+  display: inline-block;
+  position: absolute;
+  border-radius: 20rpx;
+  background: #929ca6;
+  color: #ffffff;
+  bottom: 40vh;
+  left: 50%;
+  width: 80vw;
+  transform: translateX(-50%)
+}
+.read{
+   padding: 80rpx 0;
+}

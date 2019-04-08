@@ -1,0 +1,8 @@
+<!--pages/sign/sign.wxml-->
+<view class="center-box">
+<text class="name">Reading</text>
+<view class="read"> <text>—</text> 欢迎主人制造自己的灵魂空间 <text>—</text> </view>
+<button class="sign-btn" open-type='getUserInfo' bindgetuserinfo='getInfo'> 点击授权</button>
+</view>
+
+ 

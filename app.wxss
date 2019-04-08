@@ -12,4 +12,29 @@ page{
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
-
+.name{
+ font-weight: bolder;
+ font-size: 80rpx;
+}
+.center-box{
+  margin-top: 20vh;
+  text-align: center;
+}
+.read{
+   font-size: 46rpx;
+   padding: 30rpx 0;
+}
+.read text{
+  font-weight: bold;
+}
+.in-books{
+  display: inline-block;
+  position: absolute;
+  padding: 30rpx 30rpx;
+  border-radius: 60rpx;
+  background: #929ca6;
+  color: #ffffff;
+  bottom: 15vh;
+  left: 50%;
+  transform: translateX(-50%)
+}
